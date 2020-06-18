@@ -17,5 +17,14 @@ namespace RogueMax.Model
         public Point Slice { get; set; }
         #endregion
 
+        #region CONSTRUCTORES
+        public Tile() { }
+
+        public Tile(Point slice)
+        {
+            Slice = slice;
+        }
+        #endregion
+
     }
 }

@@ -44,7 +44,7 @@
   <ItemGroup>
     <Compile Include="Game1.cs" />
     <Compile Include="Map\FloorFactory.cs" />
-    <Compile Include="Model\Layer1\Floor.cs" />
+    <Compile Include="Model\Layer1\Ground.cs" />
     <Compile Include="Model\Layer1\Tile.cs" />
     <Compile Include="Model\Layer1\Water.cs" />
     <Compile Include="Model\TypeDef\Dual.cs" />
